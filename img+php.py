@@ -8,7 +8,7 @@ def help():
 	print '''
 	File combiner( Version : %s )
 
-	Usage 	   : python %s [imgefile] [phpfile] [savefile] [savefile] 
+	Usage 	   : python %s [imgfile] [phpfile] [savefile] [savefile] 
 	
 	Example    : python %s image.png phpfile.php shell.php
 
